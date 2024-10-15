@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(91, 177, 226);
+    font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+    background: #f8f9fa;
+    padding: 60px 0;
+}
+
+footer {
+    background: #f8f9fa;
+    padding: 20px 0;
+}
